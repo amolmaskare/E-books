@@ -2,7 +2,7 @@ body{
     margin:0px;
     padding: 0px;
     font-family: 'Montserrat';
-    background-image: url(background.png);
+    background-image: url('background.png');
 );
     background-size: cover;
 }
